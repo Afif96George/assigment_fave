@@ -1,0 +1,25 @@
+{
+  "name": "assigment_fave",
+  "version": "1.0.0",
+  "description": "assigment QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afif96George/assigment_fave.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "luqie_skywalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afif96George/assigment_fave/issues"
+  },
+  "homepage": "https://github.com/Afif96George/assigment_fave#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
