@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Afif96George/assigment_fave#readme",
   "devDependencies": {
-    "cypress": "^7.6.0"
+    "cypress": "^7.6.0",
+    "cypress-xpath": "^1.6.2"
   }
 }
